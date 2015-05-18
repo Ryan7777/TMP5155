@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/ryan/AndroidStudioProjects/TMP5155/res/values-zh-rTW/string.xml -->
+    <eat-comment/>
+    <string name="action_settings">設定</string>
+    <string name="app_name">IOT</string>
+    <string name="hello_world">你好!</string>
+    <string name="strNowTime">現在時間：</string>
+    <string name="txt_NowTime">現在時間：00:00</string>
+    <string name="txt_btnArea">區域</string>
+    <string name="txt_btnBack">返回</string>
+    <string name="txt_btnExit">離開</string>
+    <string name="txt_btnOther">開發中</string>
+    <string name="txt_btnSetting">設定</string>
+</resources>
